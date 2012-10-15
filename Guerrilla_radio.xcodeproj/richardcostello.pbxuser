@@ -1,0 +1,186 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Guerrilla_radio */ = {
+		activeExec = 0;
+		executables = (
+			4E4B100715F3B50B00EDD3E7 /* Guerrilla_radio */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* Guerrilla_radioViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 331}}";
+			sepNavSelRange = "{382, 0}";
+			sepNavVisRange = "{0, 384}";
+			sepNavWindowFrame = "{{142, 4}, {1161, 874}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* Guerrilla_radioViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {859, 975}}";
+			sepNavSelRange = "{459, 0}";
+			sepNavVisRange = "{62, 738}";
+			sepNavWindowFrame = "{{1565, -150}, {1161, 874}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4E4B100715F3B50B00EDD3E7 /* Guerrilla_radio */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Guerrilla_radio */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Guerrilla_radio */,
+		);
+		codeSenseManager = 4E4B101115F3B51400EDD3E7 /* Code sense */;
+		executables = (
+			4E4B100715F3B50B00EDD3E7 /* Guerrilla_radio */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					520,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 368305337;
+			PBXWorkspaceStateSaveDate = 368305337;
+		};
+		perUserProjectItems = {
+			4E40CE4515F3E4DA00018986 /* PlistBookmark */ = 4E40CE4515F3E4DA00018986 /* PlistBookmark */;
+			4E40CE5015F3E51800018986 /* PBXBookmark */ = 4E40CE5015F3E51800018986 /* PBXBookmark */;
+			4E40CE5115F3E51800018986 /* PBXBookmark */ = 4E40CE5115F3E51800018986 /* PBXBookmark */;
+			4E40CE5215F3E51800018986 /* PBXBookmark */ = 4E40CE5215F3E51800018986 /* PBXBookmark */;
+			4E4B101B15F3B8B600EDD3E7 /* PBXBookmark */ = 4E4B101B15F3B8B600EDD3E7 /* PBXBookmark */;
+			4E4B103415F3B92F00EDD3E7 /* PBXTextBookmark */ = 4E4B103415F3B92F00EDD3E7 /* PBXTextBookmark */;
+			4E4B107C15F3C2C300EDD3E7 /* PBXTextBookmark */ = 4E4B107C15F3C2C300EDD3E7 /* PBXTextBookmark */;
+			4E4B107D15F3C2C300EDD3E7 /* PBXTextBookmark */ = 4E4B107D15F3C2C300EDD3E7 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4E4B101015F3B51400EDD3E7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4E40CE4515F3E4DA00018986 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Guerrilla_radio-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/richardcostello/Desktop/Guerrilla_radio/Guerrilla_radio-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	4E40CE5015F3E51800018986 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4E4B101215F3B54700EDD3E7 /* AppGRtm.jpg */;
+	};
+	4E40CE5115F3E51800018986 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4E40CE4A15F3E4E900018986 /* icon.png */;
+	};
+	4E40CE5215F3E51800018986 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4E40CE4A15F3E4E900018986 /* icon.png */;
+	};
+	4E4B100715F3B50B00EDD3E7 /* Guerrilla_radio */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Guerrilla_radio;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	4E4B101015F3B51400EDD3E7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4E4B101115F3B51400EDD3E7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4E4B101B15F3B8B600EDD3E7 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	4E4B102115F3B8B600EDD3E7 /* radioViewController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = radioViewController.m;
+		path = /Users/richardcostello/Desktop/radio/Classes/radioViewController.m;
+		sourceTree = "<absolute>";
+	};
+	4E4B103415F3B92F00EDD3E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4E4B102115F3B8B600EDD3E7 /* radioViewController.m */;
+		name = "radioViewController.m: 16";
+		rLen = 0;
+		rLoc = 335;
+		rType = 0;
+		vrLen = 393;
+		vrLoc = 29;
+	};
+	4E4B107C15F3C2C300EDD3E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Guerrilla_radioViewController.h */;
+		name = "Guerrilla_radioViewController.h: 20";
+		rLen = 0;
+		rLoc = 382;
+		rType = 0;
+		vrLen = 384;
+		vrLoc = 0;
+	};
+	4E4B107D15F3C2C300EDD3E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Guerrilla_radioViewController.m */;
+		name = "Guerrilla_radioViewController.m: 17";
+		rLen = 0;
+		rLoc = 459;
+		rType = 0;
+		vrLen = 738;
+		vrLoc = 62;
+	};
+	8D1107310486CEB800E47090 /* Guerrilla_radio-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{1536, -203}, {1161, 874}}";
+		};
+	};
+}

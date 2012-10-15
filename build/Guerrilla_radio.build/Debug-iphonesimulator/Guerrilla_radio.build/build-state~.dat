@@ -1,0 +1,278 @@
+TGuerrilla_radio
+v7
+r0
+t368294130.016987
+cCheck dependencies
+cProcessInfoPlistFile /Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app/Info.plist Guerrilla_radio-Info.plist
+cCompileXIB /Users/richardcostello/Desktop/Guerrilla_radio/MainWindow.xib
+cCompileXIB /Users/richardcostello/Desktop/Guerrilla_radio/Guerrilla_radioViewController.xib
+cCpResource build/Debug-iphonesimulator/Guerrilla_radio.app/AppGRtm.jpg AppGRtm.jpg
+cCpResource build/Debug-iphonesimulator/Guerrilla_radio.app/pick_red_57x57.png pick_red_57x57.png
+cProcessPCH /var/folders/0x/3jhv42rx5fg82_0dzkhpn8mh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Guerrilla_radio_Prefix-abmrtldvcgmheichvorulvidencf/Guerrilla_radio_Prefix.pch.gch Guerrilla_radio_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Objects-normal/i386/main.o /Users/richardcostello/Desktop/Guerrilla_radio/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Objects-normal/i386/Guerrilla_radioAppDelegate.o /Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Objects-normal/i386/Guerrilla_radioViewController.o /Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004DC6CCBF0000000000000110
+t1304874175
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/AppGRtm.jpg
+c000000005025897400000000000171B5
+t1344637300
+s94645
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioAppDelegate.h
+c0000000050437D8B0000000000000216
+t1346600331
+s534
+i<UIKit/UIKit.h>
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioAppDelegate.m
+c0000000050437D8B0000000000000AD9
+t1346600331
+s2777
+i"Guerrilla_radioAppDelegate.h"
+i"Guerrilla_radioViewController.h"
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioViewController.h
+c000000005043808E0000000000000131
+t1346601102
+s305
+i<UIKit/UIKit.h>
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioViewController.m
+c000000005043816C0000000000000682
+t1346601324
+s1666
+i"Guerrilla_radioViewController.h"
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/Guerrilla_radioViewController.xib
+c00000000504380F2000000000000573C
+t1346601202
+s22332
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/Guerrilla_radio_Prefix.pch
+c0000000050437D8B00000000000000C7
+t1346600331
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/MainWindow.xib
+c0000000050437D8B0000000000004E89
+t1346600331
+s20105
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app
+t2
+s0
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app.dSYM
+t2
+s0
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app/AppGRtm.jpg
+t1346601328
+s94645
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app/Guerrilla_radio
+t2
+s0
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app/Guerrilla_radioViewController.nib
+t1346601329
+s3254
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app/Info.plist
+t1346601328
+s629
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app/MainWindow.nib
+t1346601329
+s1697
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app/PkgInfo
+t1346601328
+s8
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app/pick_red_57x57.png
+t1346601328
+s5858
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Objects-normal/i386/Guerrilla_radio.LinkFileList
+c000000005043817000000000000001E5
+t1346601328
+s485
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Objects-normal/i386/Guerrilla_radioAppDelegate.o
+t1346601330
+s51788
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Objects-normal/i386/Guerrilla_radioViewController.o
+t2
+s0
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Objects-normal/i386/main.o
+t1346601329
+s6328
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/main.m
+c0000000050437D8B0000000000000178
+t1346600331
+s376
+i<UIKit/UIKit.h>
+
+N/Users/richardcostello/Desktop/Guerrilla_radio/pick_red_57x57.png
+c000000005042E90100000000000016E2
+t1346562305
+s5858
+
+N/var/folders/0x/3jhv42rx5fg82_0dzkhpn8mh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Guerrilla_radio_Prefix-abmrtldvcgmheichvorulvidencf/Guerrilla_radio_Prefix.pch.gch
+t1346601329
+s15814064
+
+NGuerrilla_radio-Info.plist
+c0000000050437D8B000000000000038D
+t1346600331
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies368294128#368294128#0(0"0(0#1#0"4459492672#0"0#
+
+CCompileC build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Objects-normal/i386/Guerrilla_radioAppDelegate.o /Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s368294129.921273
+e368294130.016901
+r1
+xCompileC
+xbuild/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Objects-normal/i386/Guerrilla_radioAppDelegate.o
+x/Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioAppDelegate.m368294129#368294130#0(0"0(0#0#83"/Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioAppDelegate.m4459490960#2210"    cd /Users/richardcostello/Desktop/Guerrilla_radio    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Guerrilla_radio-generated-files.hmap -I/Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Guerrilla_radio-own-target-headers.hmap -I/Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Guerrilla_radio-all-target-headers.hmap -iquote /Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Guerrilla_radio-project-headers.hmap -F/Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator -I/Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/include -I/Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/DerivedSources/i386 -I/Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/DerivedSources -include /var/folders/0x/3jhv42rx5fg82_0dzkhpn8mh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Guerrilla_radio_Prefix-abmrtldvcgmheichvorulvidencf/Guerrilla_radio_Prefix.pch -c /Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioAppDelegate.m -o /Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Objects-normal/i386/Guerrilla_radioAppDelegate.o0#
+
+CCompileC build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Objects-normal/i386/Guerrilla_radioViewController.o /Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s368294129.922594
+e368294130.001049
+r0
+xCompileC
+xbuild/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Objects-normal/i386/Guerrilla_radioViewController.o
+x/Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioViewController.m:11: error: @synthesize property must be in implementation context
+o/Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioViewController.m:13: fatal error: method definition not in @implementation context
+ocompilation terminated.
+o{standard input}:34:FATAL:.abort  detected.  Assembly stopping.
+lSLF07#2@94"Compile /Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioViewController.m368294129#368294130#0(394"/Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioViewController.m:11: error: @synthesize property must be in implementation context/Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioViewController.m:13: fatal error: method definition not in @implementation contextcompilation terminated.{standard input}:34:FATAL:.abort  detected.  Assembly stopping.2(4@54"@synthesize property must be in implementation context368294129#0#153#0(6@86"/Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioViewController.m368294124#11#0#11#0#0"0(4@48"Method definition not in @implementation context368294130#153#153#0(6@86"/Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioViewController.m368294124#13#0#13#0#48"method definition not in @implementation context0(0#0#86"/Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioViewController.m4459490960#2216"    cd /Users/richardcostello/Desktop/Guerrilla_radio    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Guerrilla_radio-generated-files.hmap -I/Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Guerrilla_radio-own-target-headers.hmap -I/Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Guerrilla_radio-all-target-headers.hmap -iquote /Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Guerrilla_radio-project-headers.hmap -F/Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator -I/Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/include -I/Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/DerivedSources/i386 -I/Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/DerivedSources -include /var/folders/0x/3jhv42rx5fg82_0dzkhpn8mh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Guerrilla_radio_Prefix-abmrtldvcgmheichvorulvidencf/Guerrilla_radio_Prefix.pch -c /Users/richardcostello/Desktop/Guerrilla_radio/Classes/Guerrilla_radioViewController.m -o /Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Objects-normal/i386/Guerrilla_radioViewController.o1#
+
+CCompileC build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Objects-normal/i386/main.o /Users/richardcostello/Desktop/Guerrilla_radio/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s368294129.919729
+e368294130.000358
+r1
+xCompileC
+xbuild/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Objects-normal/i386/main.o
+x/Users/richardcostello/Desktop/Guerrilla_radio/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/richardcostello/Desktop/Guerrilla_radio/main.m368294129#368294130#0(0"0(0#0#53"/Users/richardcostello/Desktop/Guerrilla_radio/main.m4459490960#2158"    cd /Users/richardcostello/Desktop/Guerrilla_radio    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Guerrilla_radio-generated-files.hmap -I/Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Guerrilla_radio-own-target-headers.hmap -I/Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Guerrilla_radio-all-target-headers.hmap -iquote /Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Guerrilla_radio-project-headers.hmap -F/Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator -I/Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/include -I/Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/DerivedSources/i386 -I/Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/DerivedSources -include /var/folders/0x/3jhv42rx5fg82_0dzkhpn8mh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Guerrilla_radio_Prefix-abmrtldvcgmheichvorulvidencf/Guerrilla_radio_Prefix.pch -c /Users/richardcostello/Desktop/Guerrilla_radio/main.m -o /Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/richardcostello/Desktop/Guerrilla_radio/Guerrilla_radioViewController.xib
+s368294128.778039
+e368294129.250599
+r1
+xCompileXIB
+x/Users/richardcostello/Desktop/Guerrilla_radio/Guerrilla_radioViewController.xib
+o2012-09-02 08:55:28.942 ibtool[484:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  
+lSLF07#2@44"CompileXIB Guerrilla_radioViewController.xib368294128#368294129#0(183"2012-09-02 08:55:28.942 ibtool[484:a0b] -[__NSCFSet unionSet:]: This app appears to be calling this method with a non-set parameter.  Please wait while the system corrects this....  0(0#0#80"/Users/richardcostello/Desktop/Guerrilla_radio/Guerrilla_radioViewController.xib4459490960#640"    cd /Users/richardcostello/Desktop/Guerrilla_radio    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app/Guerrilla_radioViewController.nib /Users/richardcostello/Desktop/Guerrilla_radio/Guerrilla_radioViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/richardcostello/Desktop/Guerrilla_radio/MainWindow.xib
+s368294128.777377
+e368294129.192685
+r1
+xCompileXIB
+x/Users/richardcostello/Desktop/Guerrilla_radio/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib368294128#368294129#0(0"0(0#0#61"/Users/richardcostello/Desktop/Guerrilla_radio/MainWindow.xib4459490960#602"    cd /Users/richardcostello/Desktop/Guerrilla_radio    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app/MainWindow.nib /Users/richardcostello/Desktop/Guerrilla_radio/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Guerrilla_radio.app/AppGRtm.jpg AppGRtm.jpg
+s368294128.778759
+e368294128.816855
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Guerrilla_radio.app/AppGRtm.jpg
+xAppGRtm.jpg
+lSLF07#2@16"Copy AppGRtm.jpg368294128#368294128#0(0"0(0#0#58"/Users/richardcostello/Desktop/Guerrilla_radio/AppGRtm.jpg4459490960#501"    cd /Users/richardcostello/Desktop/Guerrilla_radio    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/richardcostello/Desktop/Guerrilla_radio/AppGRtm.jpg /Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app0#
+
+CCpResource build/Debug-iphonesimulator/Guerrilla_radio.app/pick_red_57x57.png pick_red_57x57.png
+s368294128.779583
+e368294128.816589
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Guerrilla_radio.app/pick_red_57x57.png
+xpick_red_57x57.png
+lSLF07#2@23"Copy pick_red_57x57.png368294128#368294128#0(0"0(0#0#65"/Users/richardcostello/Desktop/Guerrilla_radio/pick_red_57x57.png4459490960#508"    cd /Users/richardcostello/Desktop/Guerrilla_radio    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/richardcostello/Desktop/Guerrilla_radio/pick_red_57x57.png /Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app0#
+
+CGenerateDSYMFile /Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app.dSYM /Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app/Guerrilla_radio
+r0
+
+CLd /Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app/Guerrilla_radio normal i386
+r0
+
+CProcessInfoPlistFile /Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app/Info.plist Guerrilla_radio-Info.plist
+s368294128.771944
+e368294128.777278
+r1
+xProcessInfoPlistFile
+x/Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app/Info.plist
+xGuerrilla_radio-Info.plist
+lSLF07#2@34"Process Guerrilla_radio-Info.plist368294128#368294128#0(0"0(0#0#73"/Users/richardcostello/Desktop/Guerrilla_radio/Guerrilla_radio-Info.plist17223795200#527"    cd /Users/richardcostello/Desktop/Guerrilla_radio    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Guerrilla_radio-Info.plist -genpkginfo /Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app/Info.plist0#
+
+CProcessPCH /var/folders/0x/3jhv42rx5fg82_0dzkhpn8mh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Guerrilla_radio_Prefix-abmrtldvcgmheichvorulvidencf/Guerrilla_radio_Prefix.pch.gch Guerrilla_radio_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s368294129.250764
+e368294129.919576
+r1
+xProcessPCH
+x/var/folders/0x/3jhv42rx5fg82_0dzkhpn8mh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Guerrilla_radio_Prefix-abmrtldvcgmheichvorulvidencf/Guerrilla_radio_Prefix.pch.gch
+xGuerrilla_radio_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile Guerrilla_radio_Prefix.pch368294129#368294129#0(0"0(0#0#73"/Users/richardcostello/Desktop/Guerrilla_radio/Guerrilla_radio_Prefix.pch4459490960#2034"    cd /Users/richardcostello/Desktop/Guerrilla_radio    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Guerrilla_radio-generated-files.hmap -I/Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Guerrilla_radio-own-target-headers.hmap -I/Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Guerrilla_radio-all-target-headers.hmap -iquote /Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/Guerrilla_radio-project-headers.hmap -F/Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator -I/Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/include -I/Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/DerivedSources/i386 -I/Users/richardcostello/Desktop/Guerrilla_radio/build/Guerrilla_radio.build/Debug-iphonesimulator/Guerrilla_radio.build/DerivedSources -c /Users/richardcostello/Desktop/Guerrilla_radio/Guerrilla_radio_Prefix.pch -o /var/folders/0x/3jhv42rx5fg82_0dzkhpn8mh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Guerrilla_radio_Prefix-abmrtldvcgmheichvorulvidencf/Guerrilla_radio_Prefix.pch.gch0#
+
+CTouch /Users/richardcostello/Desktop/Guerrilla_radio/build/Debug-iphonesimulator/Guerrilla_radio.app
+r0
+
